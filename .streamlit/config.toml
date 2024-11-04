@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#5F5F5F"
+backgroundColor="#f0f0f5"
+secondaryBackgroundColor="#D3D3D3"
+textColor="#262730"
+font="sans serif"
+
+[server]
+maxMessageSize = 400
